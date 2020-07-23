@@ -4,5 +4,6 @@ class Student < User
   
   def initialize
     self.class.all << self
+  end
 
 end
