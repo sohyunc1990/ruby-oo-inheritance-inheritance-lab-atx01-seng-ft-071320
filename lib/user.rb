@@ -1,5 +1,5 @@
 class User
-  attr_accessor :name
+  attr_accessor :first_namename
   
   def first_name
     @first_name = first_name
