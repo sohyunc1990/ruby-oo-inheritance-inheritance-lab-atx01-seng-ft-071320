@@ -10,6 +10,9 @@ class Teacher < User
   def last_name
     @last_name
   end
+  
+  def teach
+    KNOWLEDGE
 
   
 end
